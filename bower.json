@@ -1,0 +1,17 @@
+{
+  "name": "tdd-angular-thinkful",
+  "version": "0.0.0",
+  "authors": [
+    "classicmike <michael.tran.tech@gmail.com>"
+  ],
+  "description": "Example TDD with Karma and Jasmine for Angular",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-mocks": "~1.4.7"
+  }
+}
